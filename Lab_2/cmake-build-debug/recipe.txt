@@ -1,8 +1,0 @@
-pizza_dough :
-	flour	0.56875	40
-	water	0.3125	0
-	oil	0.034	120
-	yeast	0.01	700
-	sugar	0.0125	42
-	salt	0.015	10
-;
